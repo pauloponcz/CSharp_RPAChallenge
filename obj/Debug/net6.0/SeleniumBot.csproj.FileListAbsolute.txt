@@ -1,0 +1,72 @@
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\obj\Debug\net6.0\SeleniumBot.csproj.AssemblyReference.cache
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\obj\Debug\net6.0\SeleniumBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\obj\Debug\net6.0\SeleniumBot.AssemblyInfoInputs.cache
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\obj\Debug\net6.0\SeleniumBot.AssemblyInfo.cs
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\obj\Debug\net6.0\SeleniumBot.csproj.CoreCompileInputs.cache
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\SeleniumBot.exe
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\SeleniumBot.deps.json
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\SeleniumBot.runtimeconfig.json
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\SeleniumBot.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\SeleniumBot.pdb
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\WebDriver.Support.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\WebDriver.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\obj\Debug\net6.0\SeleniumBot.csproj.CopyComplete
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\obj\Debug\net6.0\SeleniumBot.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\obj\Debug\net6.0\refint\SeleniumBot.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\obj\Debug\net6.0\SeleniumBot.pdb
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\obj\Debug\net6.0\SeleniumBot.genruntimeconfig.cache
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\obj\Debug\net6.0\ref\SeleniumBot.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\SeleniumBot.exe
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\SeleniumBot.deps.json
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\SeleniumBot.runtimeconfig.json
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\SeleniumBot.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\SeleniumBot.pdb
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\WebDriver.Support.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\WebDriver.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\obj\Debug\net6.0\SeleniumBot.csproj.AssemblyReference.cache
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\obj\Debug\net6.0\SeleniumBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\obj\Debug\net6.0\SeleniumBot.AssemblyInfoInputs.cache
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\obj\Debug\net6.0\SeleniumBot.AssemblyInfo.cs
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\obj\Debug\net6.0\SeleniumBot.csproj.CoreCompileInputs.cache
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\obj\Debug\net6.0\SeleniumBot.csproj.CopyComplete
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\obj\Debug\net6.0\SeleniumBot.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\obj\Debug\net6.0\refint\SeleniumBot.dll
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\obj\Debug\net6.0\SeleniumBot.pdb
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\obj\Debug\net6.0\SeleniumBot.genruntimeconfig.cache
+C:\Users\753493\Documents\CoE RPA\01 - CSharp\Estudo\00 - RPA\00 - Automação Teste\SeleniumBot\SeleniumBot\obj\Debug\net6.0\ref\SeleniumBot.dll
